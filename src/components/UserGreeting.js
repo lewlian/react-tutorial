@@ -13,7 +13,6 @@ class UserGreeting extends Component {
         return (this.state.isLoggedIn && <div>Welcome Sean</div>
         )
 
-
         // let message
 
         // if (this.state.isLoggedIn) {
